@@ -1,0 +1,13 @@
+[package]
+name = "human_duration"
+version = "0.1.0"
+authors = ["Ben Santora <you@example.com>"]
+edition = "2021"
+description = "A simple human-readable duration formatter for Rust"
+license = "MIT"
+repository = "https://github.com/bensatlantik/human_duration"
+keywords = ["duration", "time", "formatting", "human-readable"]
+categories = ["text-processing", "time"]
+
+readme = "README.md"
+
