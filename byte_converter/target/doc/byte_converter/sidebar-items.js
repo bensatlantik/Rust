@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"fn":["bytes_to_kb","bytes_to_mb","kb_to_bytes","kb_to_mb","mb_to_bytes","mb_to_kb"]};
